@@ -1,0 +1,545 @@
+[
+  {
+    "short": "Bienvenida",
+    "title": "Cómo vemos el aprendizaje.",
+    "sentences": [
+      "Hola, soy Westin, su guía de Halifax West High School.",
+      "En todas las materias, los estudiantes muestran lo que han aprendido a través de lo que crean, explican y hacen.",
+      "Veamos cómo interpretar esa información en PowerSchool."
+    ],
+    "cards": [
+      [
+        "BIENVENIDAS, FAMILIAS",
+        "Una visión más completa del aprendizaje."
+      ],
+      [
+        "EN TODAS LAS MATERIAS",
+        "Lo que los estudiantes crean, explican y hacen."
+      ],
+      [
+        "EN POWERSCHOOL",
+        "Títulos claros. Comentarios útiles. Próximos pasos."
+      ]
+    ],
+    "visual": {
+      "meet": "CONOZCAN A WESTIN",
+      "guide": "Su guía del aprendizaje."
+    },
+    "speech": [
+      "Hola, soy Westin, su guía de Halifax West High School.",
+      "En todas las materias, los estudiantes muestran lo que han aprendido a través de lo que crean, explican y hacen.",
+      "Veamos cómo interpretar esa información en PowerSchool."
+    ],
+    "start": 0,
+    "duration": 16.458333333333332,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 4.939,
+        "text": "Hola, soy Westin, su guía de Halifax West High School."
+      },
+      {
+        "start": 4.939,
+        "end": 11.821,
+        "text": "En todas las materias, los estudiantes muestran lo que han aprendido a través de lo que crean, explican y hacen."
+      },
+      {
+        "start": 11.821,
+        "end": 15.79,
+        "text": "Veamos cómo interpretar esa información en PowerSchool."
+      }
+    ],
+    "text": "Hola, soy Westin, su guía de Halifax West High School. En todas las materias, los estudiantes muestran lo que han aprendido a través de lo que crean, explican y hacen. Veamos cómo interpretar esa información en PowerSchool."
+  },
+  {
+    "short": "Metas de aprendizaje",
+    "title": "Comenzamos con el aprendizaje.",
+    "sentences": [
+      "Comenzamos con metas de aprendizaje y criterios de logro claros.",
+      "En matemáticas, inglés, ciencias, educación física y otras materias, nos preguntamos: ¿qué comprende el estudiante y qué puede hacer?"
+    ],
+    "cards": [
+      [
+        "LA META",
+        "Comprender y explicar el método."
+      ],
+      [
+        "CRITERIOS DE LOGRO",
+        "Mostrar los pasos y por qué funcionan."
+      ],
+      [
+        "EN TODAS LAS MATERIAS",
+        "La meta orienta lo que observa el docente."
+      ]
+    ],
+    "visual": {},
+    "speech": [
+      "Comenzamos con metas de aprendizaje y criterios de logro claros.",
+      "En matemáticas, inglés, ciencias, educación física y otras materias, nos preguntamos: ¿qué comprende el estudiante y qué puede hacer?"
+    ],
+    "start": 16.458333333333332,
+    "duration": 15.291666666666666,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 4.888,
+        "text": "Comenzamos con metas de aprendizaje y criterios de logro claros."
+      },
+      {
+        "start": 4.888,
+        "end": 14.591,
+        "text": "En matemáticas, inglés, ciencias, educación física y otras materias, nos preguntamos: ¿qué comprende el estudiante y qué puede hacer?"
+      }
+    ],
+    "text": "Comenzamos con metas de aprendizaje y criterios de logro claros. En matemáticas, inglés, ciencias, educación física y otras materias, nos preguntamos: ¿qué comprende el estudiante y qué puede hacer?"
+  },
+  {
+    "short": "Productos",
+    "title": "P significa Producto.",
+    "sentences": [
+      "P significa producto: el trabajo que un estudiante crea o completa.",
+      "La solución de un problema, un ensayo, una prueba o un informe de laboratorio pueden mostrar el aprendizaje.",
+      "El trabajo terminado es una parte del panorama."
+    ],
+    "cards": [
+      [
+        "P · PRODUCTO",
+        "Pruebas, tareas, proyectos y presentaciones."
+      ],
+      [
+        "EN DISTINTAS MATERIAS",
+        "Una solución matemática, un ensayo o un informe."
+      ],
+      [
+        "UNA PARTE DEL PANORAMA",
+        "Trabajo valorado según los criterios de aprendizaje."
+      ]
+    ],
+    "visual": {
+      "banner": "P · EL TRABAJO QUE CREA EL ESTUDIANTE"
+    },
+    "speech": [
+      "La letra pe significa producto: el trabajo que un estudiante crea o completa.",
+      "La solución de un problema, un ensayo, una prueba o un informe de laboratorio pueden mostrar el aprendizaje.",
+      "El trabajo terminado es una parte del panorama."
+    ],
+    "start": 31.75,
+    "duration": 17.666666666666668,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 6.099,
+        "text": "P significa producto: el trabajo que un estudiante crea o completa."
+      },
+      {
+        "start": 6.099,
+        "end": 13.444,
+        "text": "La solución de un problema, un ensayo, una prueba o un informe de laboratorio pueden mostrar el aprendizaje."
+      },
+      {
+        "start": 13.444,
+        "end": 17.001,
+        "text": "El trabajo terminado es una parte del panorama."
+      }
+    ],
+    "text": "P significa producto: el trabajo que un estudiante crea o completa. La solución de un problema, un ensayo, una prueba o un informe de laboratorio pueden mostrar el aprendizaje. El trabajo terminado es una parte del panorama."
+  },
+  {
+    "short": "Conversaciones",
+    "title": "C significa Conversación.",
+    "sentences": [
+      "C significa conversación: los estudiantes explican su razonamiento.",
+      "Pueden explicar una estrategia, fundamentar una interpretación o comentar un resultado científico.",
+      "El docente escucha para valorar la comprensión según los criterios de aprendizaje."
+    ],
+    "cards": [
+      [
+        "C · CONVERSACIÓN",
+        "Escuchar la explicación del estudiante."
+      ],
+      [
+        "EN DISTINTAS MATERIAS",
+        "Explicar una estrategia, interpretación o resultado."
+      ],
+      [
+        "LA EVIDENCIA",
+        "El razonamiento del estudiante según los criterios."
+      ]
+    ],
+    "visual": {
+      "banner": "C · EXPLICAR EL RAZONAMIENTO",
+      "bubbleLabel": "WESTIN EXPLICA",
+      "bubble": "Mantuve iguales ambos lados."
+    },
+    "speech": [
+      "La letra ce significa conversación: los estudiantes explican su razonamiento.",
+      "Pueden explicar una estrategia, fundamentar una interpretación o comentar un resultado científico.",
+      "El docente escucha para valorar la comprensión según los criterios de aprendizaje."
+    ],
+    "start": 49.41666666666667,
+    "duration": 18.166666666666668,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 6.099,
+        "text": "C significa conversación: los estudiantes explican su razonamiento."
+      },
+      {
+        "start": 6.099,
+        "end": 12.375,
+        "text": "Pueden explicar una estrategia, fundamentar una interpretación o comentar un resultado científico."
+      },
+      {
+        "start": 12.375,
+        "end": 17.465,
+        "text": "El docente escucha para valorar la comprensión según los criterios de aprendizaje."
+      }
+    ],
+    "text": "C significa conversación: los estudiantes explican su razonamiento. Pueden explicar una estrategia, fundamentar una interpretación o comentar un resultado científico. El docente escucha para valorar la comprensión según los criterios de aprendizaje."
+  },
+  {
+    "short": "Observaciones",
+    "title": "O significa Observación.",
+    "sentences": [
+      "O significa observación: habilidades y aprendizaje que se demuestran en la práctica.",
+      "En biología, puede ser enfocar un microscopio; en educación física, controlar el bote de un balón o aplicar una habilidad de movimiento.",
+      "El docente observa la técnica y la comprensión relacionadas con la meta de aprendizaje."
+    ],
+    "cards": [
+      [
+        "O · OBSERVACIÓN",
+        "Habilidades, procesos y aprendizaje en acción."
+      ],
+      [
+        "MUCHAS MATERIAS",
+        "La actividad cambia; la meta de aprendizaje nos orienta."
+      ],
+      [
+        "QUÉ OBSERVAR",
+        "La técnica y la comprensión relacionadas con la meta."
+      ]
+    ],
+    "visual": {
+      "banner": "O · HABILIDADES EN ACCIÓN",
+      "biology": "BIOLOGÍA",
+      "pe": "EDUCACIÓN FÍSICA",
+      "focus": "Enfocar una muestra",
+      "dribble": "Controlar el bote"
+    },
+    "speech": [
+      "La letra o significa observación: habilidades y aprendizaje que se demuestran en la práctica.",
+      "En biología, puede ser enfocar un microscopio; en educación física, controlar el bote de un balón o aplicar una habilidad de movimiento.",
+      "El docente observa la técnica y la comprensión relacionadas con la meta de aprendizaje."
+    ],
+    "start": 67.58333333333334,
+    "duration": 21.958333333333332,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 6.834,
+        "text": "O significa observación: habilidades y aprendizaje que se demuestran en la práctica."
+      },
+      {
+        "start": 6.834,
+        "end": 15.738,
+        "text": "En biología, puede ser enfocar un microscopio; en educación física, controlar el bote de un balón o aplicar una habilidad de movimiento."
+      },
+      {
+        "start": 15.738,
+        "end": 21.292,
+        "text": "El docente observa la técnica y la comprensión relacionadas con la meta de aprendizaje."
+      }
+    ],
+    "text": "O significa observación: habilidades y aprendizaje que se demuestran en la práctica. En biología, puede ser enfocar un microscopio; en educación física, controlar el bote de un balón o aplicar una habilidad de movimiento. El docente observa la técnica y la comprensión relacionadas con la meta de aprendizaje."
+  },
+  {
+    "short": "FORM",
+    "title": "La retroalimentación nos ayuda a avanzar.",
+    "sentences": [
+      "FORM significa evaluación formativa: se utiliza para ofrecer retroalimentación y orientar los próximos pasos.",
+      "Los estudiantes utilizan esa retroalimentación para practicar, revisar y mejorar.",
+      "Ayuda a responder: ¿en qué debo trabajar ahora?"
+    ],
+    "cards": [
+      [
+        "EL PROPÓSITO",
+        "Comentarios que orientan el próximo paso."
+      ],
+      [
+        "USAR LOS COMENTARIOS",
+        "Practicar, revisar y mejorar."
+      ],
+      [
+        "PREGUNTARSE",
+        "¿En qué debo trabajar ahora?"
+      ]
+    ],
+    "visual": {
+      "banner": "FORM · FORMATIVA",
+      "steps": [
+        "INTENTAR",
+        "COMENTARIOS",
+        "REVISAR"
+      ],
+      "next": "Próximo paso: apoyar tu afirmación con evidencia."
+    },
+    "speech": [
+      "FORM significa evaluación formativa: se utiliza para ofrecer retroalimentación y orientar los próximos pasos.",
+      "Los estudiantes utilizan esa retroalimentación para practicar, revisar y mejorar.",
+      "Ayuda a responder: ¿en qué debo trabajar ahora?"
+    ],
+    "start": 89.54166666666667,
+    "duration": 18.041666666666668,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 7.877,
+        "text": "FORM significa evaluación formativa: se utiliza para ofrecer retroalimentación y orientar los próximos pasos."
+      },
+      {
+        "start": 7.877,
+        "end": 13.573,
+        "text": "Los estudiantes utilizan esa retroalimentación para practicar, revisar y mejorar."
+      },
+      {
+        "start": 13.573,
+        "end": 17.375,
+        "text": "Ayuda a responder: ¿en qué debo trabajar ahora?"
+      }
+    ],
+    "text": "FORM significa evaluación formativa: se utiliza para ofrecer retroalimentación y orientar los próximos pasos. Los estudiantes utilizan esa retroalimentación para practicar, revisar y mejorar. Ayuda a responder: ¿en qué debo trabajar ahora?"
+  },
+  {
+    "short": "SUM",
+    "title": "Mostrar lo que has aprendido.",
+    "sentences": [
+      "SUM significa evaluación sumativa: se utiliza para valorar el aprendizaje según criterios establecidos.",
+      "Los productos, las conversaciones y las observaciones pueden utilizarse con cualquiera de los dos propósitos.",
+      "Estos tipos de evidencia no representan tres partes iguales de la calificación."
+    ],
+    "cards": [
+      [
+        "EL PROPÓSITO",
+        "Valorar el aprendizaje según los criterios."
+      ],
+      [
+        "P, C U O",
+        "Cualquier tipo puede ser formativo o sumativo."
+      ],
+      [
+        "UN PANORAMA MÁS COMPLETO",
+        "Las letras no establecen pesos iguales en la nota."
+      ]
+    ],
+    "visual": {
+      "banner": "SUM · SUMATIVA",
+      "learning": "APRENDIZAJE",
+      "goals": "METAS Y CRITERIOS",
+      "evaluate": "Valorar el logro"
+    },
+    "speech": [
+      "SUM significa evaluación sumativa: se utiliza para valorar el aprendizaje según criterios establecidos.",
+      "Los productos, las conversaciones y las observaciones pueden utilizarse con cualquiera de los dos propósitos.",
+      "Estos tipos de evidencia no representan tres partes iguales de la calificación."
+    ],
+    "start": 107.58333333333334,
+    "duration": 20.416666666666668,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 7.658,
+        "text": "SUM significa evaluación sumativa: se utiliza para valorar el aprendizaje según criterios establecidos."
+      },
+      {
+        "start": 7.658,
+        "end": 14.617,
+        "text": "Los productos, las conversaciones y las observaciones pueden utilizarse con cualquiera de los dos propósitos."
+      },
+      {
+        "start": 14.617,
+        "end": 19.746,
+        "text": "Estos tipos de evidencia no representan tres partes iguales de la calificación."
+      }
+    ],
+    "text": "SUM significa evaluación sumativa: se utiliza para valorar el aprendizaje según criterios establecidos. Los productos, las conversaciones y las observaciones pueden utilizarse con cualquiera de los dos propósitos. Estos tipos de evidencia no representan tres partes iguales de la calificación."
+  },
+  {
+    "short": "Títulos en PowerSchool",
+    "title": "Leer el título de izquierda a derecha.",
+    "sentences": [
+      "En PowerSchool, la primera letra identifica el tipo de evidencia.",
+      "FORM o SUM identifica el propósito, seguido de un título claro de la actividad.",
+      "Por ejemplo, C, SUM y explicar una interpretación literaria indican una conversación sumativa sobre la comprensión de un texto."
+    ],
+    "cards": [
+      [
+        "PRIMERO · EVIDENCIA",
+        "P: producto. C: conversación. O: observación."
+      ],
+      [
+        "DESPUÉS · PROPÓSITO",
+        "FORM: formativa. SUM: sumativa."
+      ],
+      [
+        "AL FINAL · ACTIVIDAD",
+        "Un título claro indica qué se está evaluando."
+      ]
+    ],
+    "visual": {
+      "banner": "EJEMPLO DE TÍTULO EN POWERSCHOOL",
+      "parts": [
+        "EVIDENCIA",
+        "PROPÓSITO",
+        "TÍTULO DE LA ACTIVIDAD"
+      ],
+      "interpretation": "Interpretación literaria",
+      "explanation": "Una conversación sumativa sobre la comprensión de un texto."
+    },
+    "speech": [
+      "En PowerSchool, la primera letra identifica el tipo de evidencia.",
+      "FORM o SUM identifica el propósito, seguido de un título claro de la actividad.",
+      "Por ejemplo, ce, sum y explicar una interpretación literaria indican una conversación sumativa sobre la comprensión de un texto."
+    ],
+    "start": 128.0,
+    "duration": 20.083333333333332,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 5.274,
+        "text": "En PowerSchool, la primera letra identifica el tipo de evidencia."
+      },
+      {
+        "start": 5.274,
+        "end": 10.944,
+        "text": "FORM o SUM identifica el propósito, seguido de un título claro de la actividad."
+      },
+      {
+        "start": 10.944,
+        "end": 19.424,
+        "text": "Por ejemplo, C, SUM y explicar una interpretación literaria indican una conversación sumativa sobre la comprensión de un texto."
+      }
+    ],
+    "text": "En PowerSchool, la primera letra identifica el tipo de evidencia. FORM o SUM identifica el propósito, seguido de un título claro de la actividad. Por ejemplo, C, SUM y explicar una interpretación literaria indican una conversación sumativa sobre la comprensión de un texto."
+  },
+  {
+    "short": "Entrega y aprendizaje",
+    "title": "Revisar el estado Y los comentarios.",
+    "sentences": [
+      "Completar una tarea y comprender lo aprendido nos dicen cosas diferentes.",
+      "Revise el estado de entrega junto con los comentarios: un trabajo entregado todavía puede necesitar mejoras.",
+      "Algunas actividades de práctica en clase pueden no aparecer como entradas separadas en PowerSchool.",
+      "El docente puede explicar dónde encontrar las tareas diarias y cómo dar seguimiento a los trabajos pendientes."
+    ],
+    "cards": [
+      [
+        "REVISAR AMBOS",
+        "El estado de entrega y los comentarios sobre el aprendizaje."
+      ],
+      [
+        "PRÁCTICA DIARIA",
+        "Algunas actividades se registran fuera de PowerSchool."
+      ],
+      [
+        "DAR SEGUIMIENTO",
+        "Preguntar dónde están las tareas y cómo abordar las pendientes."
+      ]
+    ],
+    "visual": {
+      "banner": "EJEMPLO · DOS SEÑALES DIFERENTES",
+      "status": "ESTADO DE LA TAREA",
+      "submitted": "Entregada",
+      "handed": "¿Se entregó el trabajo?",
+      "feedback": "COMENTARIOS SOBRE EL APRENDIZAJE",
+      "detail": "Explica cómo la evidencia apoya tu conclusión.",
+      "next": "Próximo paso: añadir la explicación y revisarla."
+    },
+    "speech": [
+      "Completar una tarea y comprender lo aprendido nos dicen cosas diferentes.",
+      "Revise el estado de entrega junto con los comentarios: un trabajo entregado todavía puede necesitar mejoras.",
+      "Algunas actividades de práctica en clase pueden no aparecer como entradas separadas en PowerSchool.",
+      "El docente puede explicar dónde encontrar las tareas diarias y cómo dar seguimiento a los trabajos pendientes."
+    ],
+    "start": 148.08333333333334,
+    "duration": 25.958333333333332,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 5.339,
+        "text": "Completar una tarea y comprender lo aprendido nos dicen cosas diferentes."
+      },
+      {
+        "start": 5.339,
+        "end": 12.516,
+        "text": "Revise el estado de entrega junto con los comentarios: un trabajo entregado todavía puede necesitar mejoras."
+      },
+      {
+        "start": 12.516,
+        "end": 18.625,
+        "text": "Algunas actividades de práctica en clase pueden no aparecer como entradas separadas en PowerSchool."
+      },
+      {
+        "start": 18.625,
+        "end": 25.287,
+        "text": "El docente puede explicar dónde encontrar las tareas diarias y cómo dar seguimiento a los trabajos pendientes."
+      }
+    ],
+    "text": "Completar una tarea y comprender lo aprendido nos dicen cosas diferentes. Revise el estado de entrega junto con los comentarios: un trabajo entregado todavía puede necesitar mejoras. Algunas actividades de práctica en clase pueden no aparecer como entradas separadas en PowerSchool. El docente puede explicar dónde encontrar las tareas diarias y cómo dar seguimiento a los trabajos pendientes."
+  },
+  {
+    "short": "En casa",
+    "title": "Mantener la conversación.",
+    "sentences": [
+      "En casa, pregunte: ¿qué estás aprendiendo?",
+      "¿Qué comentarios has recibido?",
+      "¿Cuál es tu próximo paso?",
+      "Si una entrada no está clara, comuníquese con el docente.",
+      "Juntos podemos apoyar el próximo paso en el aprendizaje."
+    ],
+    "cards": [],
+    "visual": {
+      "prompts": [
+        "¿Qué estás aprendiendo?",
+        "¿Qué comentarios has recibido?",
+        "¿Cuál es tu próximo paso?"
+      ],
+      "follow": "Consulte al docente sobre una entrada o el próximo paso."
+    },
+    "speech": [
+      "En casa, pregunte: ¿qué estás aprendiendo?",
+      "¿Qué comentarios has recibido?",
+      "¿Cuál es tu próximo paso?",
+      "Si una entrada no está clara, comuníquese con el docente.",
+      "Juntos podemos apoyar el próximo paso en el aprendizaje."
+    ],
+    "start": 174.04166666666669,
+    "duration": 18.5,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 4.295,
+        "text": "En casa, pregunte: ¿qué estás aprendiendo?"
+      },
+      {
+        "start": 4.295,
+        "end": 6.924,
+        "text": "¿Qué comentarios has recibido?"
+      },
+      {
+        "start": 6.924,
+        "end": 9.295,
+        "text": "¿Cuál es tu próximo paso?"
+      },
+      {
+        "start": 9.295,
+        "end": 13.612,
+        "text": "Si una entrada no está clara, comuníquese con el docente."
+      },
+      {
+        "start": 13.612,
+        "end": 17.826,
+        "text": "Juntos podemos apoyar el próximo paso en el aprendizaje."
+      }
+    ],
+    "text": "En casa, pregunte: ¿qué estás aprendiendo? ¿Qué comentarios has recibido? ¿Cuál es tu próximo paso? Si una entrada no está clara, comuníquese con el docente. Juntos podemos apoyar el próximo paso en el aprendizaje."
+  }
+]

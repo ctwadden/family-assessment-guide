@@ -2,17 +2,21 @@
 
 ## School-wide Halifax West guide
 
-The latest 2-minute-34-second Westin video explains P/C/O evidence, FORM/SUM purposes, assessment titles, completion status and learning feedback across subjects. Includes the corrected open-palm wave, narrated animation, captions, ten chapter controls and a transcript.
+The Westin video explains P/C/O evidence, FORM/SUM purposes, assessment titles, completion status and learning feedback across subjects. Choose English (2:34), Spanish (3:13), or Arabic (3:45). Every edition includes narrated animation, captions, ten chapter controls, a transcript, a video download, and reduced-motion playback.
 
 - **Parent-facing player:** https://ctwadden.github.io/family-assessment-guide/halifax-west/
 - **MP4:** https://ctwadden.github.io/family-assessment-guide/halifax-west/halifax-west-how-we-see-learning.mp4
+- **Español:** https://ctwadden.github.io/family-assessment-guide/halifax-west/es/
+- **العربية:** https://ctwadden.github.io/family-assessment-guide/halifax-west/ar/
 
 For a PowerSchool course description:
 
-> **How we assess learning at Halifax West:** Watch our short family guide to Products (P), Conversations (C), Observations (O), formative feedback (FORM), summative assessment (SUM), and reading assessment titles.
+> **How we assess learning at Halifax West:** Watch our short family guide to Products (P), Conversations (C), Observations (O), formative feedback (FORM), summative assessment (SUM), and reading assessment titles. Available in English, Spanish and Arabic.
 > https://ctwadden.github.io/family-assessment-guide/halifax-west/
 
 The school-wide guide uses synthetic narration and a felt Warrior mascot. Examples are illustrative. This static site collects no student information and makes no external API calls.
+
+Spanish narration uses Microsoft's Dalia voice (Mexico). Arabic uses Modern Standard Arabic text with Microsoft's Zariyah voice (Saudi locale). Translated editions preserve the PowerSchool codes P, C, O, FORM and SUM. Arabic text and page layout read right to left, while the illustrated English PowerSchool assignment title retains its left-to-right order. The approved English animation remains unchanged.
 
 ## Technology-course guide
 
